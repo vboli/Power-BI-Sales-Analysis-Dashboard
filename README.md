@@ -3,7 +3,8 @@
 ## Overview
 This Power BI Sales Analysis Dashboard provides insights into key sales metrics, including total sales, profit, discounts, and quantity sold. It helps in understanding sales performance across different segments, regions, and time periods.
 
-## Dashboard Link - https://app.powerbi.com/groups/me/reports/1ec94061-bc67-4c3e-8034-46f6330e4dac/1047e3c1450766212110?experience=power-bi
+## Dashboard Link - 
+https://app.powerbi.com/groups/me/reports/1ec94061-bc67-4c3e-8034-46f6330e4dac/1047e3c1450766212110?experience=power-bi
 
 ## Features
 - Key Metrics Display: Sales, profit, discount, and quantity.
